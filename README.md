@@ -42,6 +42,9 @@ Our core expertise is construction project management, complemented by our prope
 
 
 ## Screenshots
+![location](https://github.com/Chandni-vyas/City-Estate-Management-in-Ahmedabad/assets/155969461/5ff1fbe8-4427-4848-b6f7-e4963b7501d6)
+![Investment](https://github.com/Chandni-vyas/City-Estate-Management-in-Ahmedabad/assets/155969461/4552da44-de63-4f76-a7d2-0b94f019c5a9)
+![apartments](https://github.com/Chandni-vyas/City-Estate-Management-in-Ahmedabad/assets/155969461/a8ff7f20-a9a1-48a9-97b1-89234c30887e)
 
 
 
